@@ -1,6 +1,8 @@
 # id0000516-Google-SpreadSheet-Scripts
-Google SpreadSheet Scripts
+Multiples Google SpreadSheet Scripts
 
+
+# id0000515 Google SpreadSheet Script Delete rows if contains String in a specific Column
 code: https://github.com/firedevelop/id0000516-Google-SpreadSheet-Scripts.git
 
 video: https://youtu.be/EwxoVb9LgFY
